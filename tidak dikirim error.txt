@@ -1,0 +1,22 @@
+22 46 passed 26 78 =4 migrate http dan rep
+
+d
+users 4 18
+authe 2 16
+
+c 
+6 10
+
+a
+sec 2 8 ke sec2
+usecase 5 1 ke server
+
+i
+
+i
+http, 2 =migrate:test up (create server 1 0) 
+rep 2
+sec 2 6 ke usecase 5
+
+////
+21 1 domain user
